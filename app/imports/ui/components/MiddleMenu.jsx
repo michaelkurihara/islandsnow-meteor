@@ -12,7 +12,7 @@ export default class MiddleMenu extends React.Component {
     ];
 
     const womensOptions = [
-      { key: 1, text: 'Tank TOps' },
+      { key: 1, text: 'Tank Tops' },
       { key: 2, text: 'Shirts' },
       { key: 3, text: 'Long Sleeve Shirts' },
       { key: 4, text: 'Sweatshirts' },
