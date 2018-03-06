@@ -1,3 +1,4 @@
-.idea
 *.iml
-node-modules
+.idea
+.DS_Store
+node_modules
