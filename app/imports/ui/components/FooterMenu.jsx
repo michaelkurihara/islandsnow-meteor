@@ -2,7 +2,7 @@ import React from 'react';
 
 import { Container, Grid, Input, List } from 'semantic-ui-react';
 
-class FooterMenu extends React.Component {
+export default class FooterMenu extends React.Component {
   render() {
     return (
         <div className="bottommenu">

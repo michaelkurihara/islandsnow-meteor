@@ -2,7 +2,7 @@ import React from 'react';
 
 import { Dropdown, Grid, Menu } from 'semantic-ui-react';
 
-class MiddleMenu extends React.Component {
+export default class MiddleMenu extends React.Component {
   render() {
     const mensOptions = [
       { key: 1, text: 'Tank Tops' },
